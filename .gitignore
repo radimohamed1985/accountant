@@ -9,6 +9,7 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
+/vendor/
 .env
 /public/uploads/business_logos
 /public/uploads/documents
