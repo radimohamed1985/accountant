@@ -222,7 +222,7 @@ final class Versions
   'sebastian/version' => '3.0.2@c6c1022351a901512170118436c764e473f6de8c',
   'symfony/debug' => 'v4.4.37@5de6c6e7f52b364840e53851c126be4d71e60470',
   'theseer/tokenizer' => '1.2.1@34a41e998c2183e22995f158c581e7b5e755ab9e',
-  'laravel/laravel' => 'dev-master@2b5c1cde867d07197111e7e4e6f23d8748a64874',
+  'laravel/laravel' => 'dev-master@165e2dcba42526052727f9d5c378234317307a7a',
 );
 
     private function __construct()
